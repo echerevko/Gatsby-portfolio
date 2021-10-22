@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_job_description_job_descriptions",
+  "info": {
+    "name": "job_description",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
