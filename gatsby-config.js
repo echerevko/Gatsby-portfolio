@@ -10,7 +10,7 @@ module.exports = {
     title: `WebDev`,
     description: `Portfolio built with Gatsby and Strapi`,
     titleTemplate: `%s | Portfolio`,
-    url: `https://portfolio-with-gatsby.netlify.app`,
+    url: `https://portfolio-eugenia-dzynia.netlify.app/`,
     image: `/mainImg.png`,
   },
   plugins: [
